@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093463646095",
+    "firebase_url": "https://smart-lpg-system-a0f24-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-lpg-system-a0f24",
+    "storage_bucket": "smart-lpg-system-a0f24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093463646095:android:4cd0d31c5ef37826f1f5fa",
+        "android_client_info": {
+          "package_name": "com.example.smart_lpg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093463646095-eu198j29m6cov0f306vte8843lnhgk23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_lpg_app",
+            "certificate_hash": "d1a213bcae4b33ac30dd3bcd98c37c11ab8038c3"
+          }
+        },
+        {
+          "client_id": "1093463646095-o90orl8uj0o8cmpj3c20a74qi987r8s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrVxTgh8SenFOVHertQluqFaf-ba1dw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093463646095-o90orl8uj0o8cmpj3c20a74qi987r8s2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093463646095-om5t7f4d43vhmmt75jlf23ptcik160cf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartLpgApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
